@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
