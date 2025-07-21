@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
