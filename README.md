@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
