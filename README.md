@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0414-third-maximum-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
