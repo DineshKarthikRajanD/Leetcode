@@ -14,7 +14,9 @@ class Solution {
         for(int i=0;i<s.length();i++){
             int value = map.get(s.charAt(i));
             if(i + 1 < s.length() && value < map.get(s.charAt(i + 1))){
-                tot -= value;
+                int ans = map.get(s.charAt(i + 1)) - value;
+                tot += ans;
+                i++;
             }
             else{
                 tot += value;
