@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0183-customers-who-never-order) |
 ## Two Pointers
