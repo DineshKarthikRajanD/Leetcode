@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0414-third-maximum-number) |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Counting Sort
