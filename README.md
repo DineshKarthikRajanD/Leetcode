@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1031-add-to-array-form-of-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
