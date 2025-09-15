@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0217-contains-duplicate) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
