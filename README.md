@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0742-to-lower-case](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
