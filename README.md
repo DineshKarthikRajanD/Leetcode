@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0739-daily-temperatures](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0739-daily-temperatures) |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0898-transpose-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -252,10 +253,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0739-daily-temperatures) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0179-largest-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
