@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0118-pascals-triangle) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
