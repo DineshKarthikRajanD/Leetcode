@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0283-move-zeroes) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -249,5 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0179-largest-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
