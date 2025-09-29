@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3379-score-of-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3379-score-of-a-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
 | [0961-long-pressed-name](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0961-long-pressed-name) |
 | [1894-merge-strings-alternately](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0739-daily-temperatures) |
+| [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
