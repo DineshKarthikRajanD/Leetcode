@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Sliding Window
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1651-shuffle-string) |
+| [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
