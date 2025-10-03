@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1137-height-checker](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1137-height-checker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
