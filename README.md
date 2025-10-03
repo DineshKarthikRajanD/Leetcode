@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0739-daily-temperatures) |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0898-transpose-matrix) |
+| [0958-sort-array-by-parity-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
+| [0958-sort-array-by-parity-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0961-long-pressed-name) |
 | [1894-merge-strings-alternately](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0455-assign-cookies) |
+| [0958-sort-array-by-parity-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
