@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0441-arranging-coins) |
 | [1046-max-consecutive-ones-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
