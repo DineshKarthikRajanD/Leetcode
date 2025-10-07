@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
