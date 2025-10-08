@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1899-count-items-matching-a-rule) |
