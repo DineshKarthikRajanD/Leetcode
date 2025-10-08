@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
