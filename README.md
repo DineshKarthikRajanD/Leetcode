@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1094-matrix-cells-in-distance-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1094-matrix-cells-in-distance-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-matrix-cells-in-distance-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0898-transpose-matrix) |
+| [1094-matrix-cells-in-distance-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
