@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0441-arranging-coins) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
