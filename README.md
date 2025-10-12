@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
@@ -420,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
