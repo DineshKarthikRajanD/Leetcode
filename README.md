@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
