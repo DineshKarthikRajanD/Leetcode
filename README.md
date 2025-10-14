@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3379-score-of-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3379-score-of-a-string) |
 ## Binary Search
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
