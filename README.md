@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0645-set-mismatch) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0645-set-mismatch) |
