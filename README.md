@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2235-capitalize-the-title](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2235-capitalize-the-title) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
