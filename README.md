@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0118-pascals-triangle) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0231-power-of-two) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0078-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
