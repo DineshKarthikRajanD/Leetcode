@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
