@@ -15,7 +15,7 @@ class Solution {
             }
             ce--;
 
-            if(re >= rs){
+            if(rs <= re){
                 for(int i=ce;i>=cs;i--){
                     res[re][i] = summa++;
                 }
