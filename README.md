@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0507-perfect-number) |
+| [0755-reach-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0755-reach-a-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0924-fair-candy-swap) |
