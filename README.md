@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0455-assign-cookies) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0645-set-mismatch) |
