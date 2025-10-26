@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Quickselect
 |  |
