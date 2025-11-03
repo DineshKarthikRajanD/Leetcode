@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0812-rotate-string) |
 | [0961-long-pressed-name](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0739-daily-temperatures) |
+| [1078-remove-outermost-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
