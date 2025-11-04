@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
