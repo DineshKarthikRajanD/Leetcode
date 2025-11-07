@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2047-find-a-peak-element-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
