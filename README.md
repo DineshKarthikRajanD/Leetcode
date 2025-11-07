@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4008-restore-finishing-order) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3447-clear-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Interactive
 |  |
 | ------- |
