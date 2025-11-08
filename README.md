@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0861-flipping-an-image) |
+| [0878-shifting-letters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0878-shifting-letters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0812-rotate-string) |
+| [0878-shifting-letters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0878-shifting-letters) |
 | [0961-long-pressed-name](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1078-remove-outermost-parentheses) |
