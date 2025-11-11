@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3447-clear-digits) |
+| [3567-convert-date-to-binary](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
 | ------- |
