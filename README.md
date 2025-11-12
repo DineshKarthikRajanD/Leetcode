@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
