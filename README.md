@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4008-restore-finishing-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [4107-find-missing-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4107-find-missing-elements) |
 ## Recursion
 |  |
 | ------- |
