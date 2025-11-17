@@ -1,20 +1,24 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
+        List<Integer> res = new ArrayList<>();
+        int n = nums.length, st = 1;
         Arrays.sort(nums);
-        int n = nums.length, j = 0;
-        ArrayList<Integer> list = new ArrayList<>();
-
-        for(int i=1;i<=n;i++){
-            while(j < n - 1 && nums[j] == nums[j+1]){
-                j++;
+        for(int i=0;i<n;i++){
+            if(i > 0 && nums[i-1] == nums[i]){
+                continue;
             }
-            if(j < n && nums[j] == i){
-                j++;
+            while(st < nums[i]){
+                res.add(st);
+                st++;
             }
-            else{
-                list.add(i);
+            if(st == nums[i]){
+                st++;
             }
         }
-        return list;
+        while(st <= n){
+            res.add(st);
+            st++;
+        }
+        return res;
     }
 }
