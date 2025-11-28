@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2047-find-a-peak-element-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1448-maximum-69-number) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
