@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1651-shuffle-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
