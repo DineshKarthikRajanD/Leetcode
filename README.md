@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1023-camelcase-matching) |
 | [1031-add-to-array-form-of-integer](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0878-shifting-letters) |
 | [0961-long-pressed-name](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0961-long-pressed-name) |
+| [1023-camelcase-matching](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1023-camelcase-matching) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1023-camelcase-matching) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1813-sentence-similarity-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1894-merge-strings-alternately](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -616,11 +619,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0812-rotate-string) |
+| [1023-camelcase-matching](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1023-camelcase-matching) |
 | [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1023-camelcase-matching](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1023-camelcase-matching) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
