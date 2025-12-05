@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1651-shuffle-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
