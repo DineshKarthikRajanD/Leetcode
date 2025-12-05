@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3567-convert-date-to-binary) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
