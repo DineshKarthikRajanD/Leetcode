@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1651-shuffle-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1023-camelcase-matching) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1813-sentence-similarity-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1894-merge-strings-alternately](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2128-reverse-prefix-of-word) |
