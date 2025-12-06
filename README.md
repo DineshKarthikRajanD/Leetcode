@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2540-minimum-common-value) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
