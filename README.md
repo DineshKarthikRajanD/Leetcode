@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1898-maximum-number-of-removable-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1899-count-items-matching-a-rule](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1970-sorting-the-sentence](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
