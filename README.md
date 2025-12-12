@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1748-sum-of-unique-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1813-sentence-similarity-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1813-sentence-similarity-iii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
