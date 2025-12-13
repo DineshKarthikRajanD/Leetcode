@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1894-merge-strings-alternately) |
