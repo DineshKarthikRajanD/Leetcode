@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
+| [1079-letter-tile-possibilities](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1023-camelcase-matching) |
 | [1044-find-common-characters](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1079-letter-tile-possibilities](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1324-print-words-vertically](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1324-print-words-vertically) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1079-letter-tile-possibilities](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0079-word-search) |
+| [1079-letter-tile-possibilities](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
