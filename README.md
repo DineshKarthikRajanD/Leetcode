@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2383-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2491-smallest-even-multiple](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
