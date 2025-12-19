@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1813-sentence-similarity-iii](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1813-sentence-similarity-iii) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-find-the-highest-altitude](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1839-decode-xored-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
