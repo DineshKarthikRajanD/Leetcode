@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2404-most-frequent-even-element](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2404-most-frequent-even-element](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2540-minimum-common-value) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2404-most-frequent-even-element](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3778-transform-array-by-parity](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
