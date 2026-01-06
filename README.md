@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0342-power-of-four) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/DineshKarthikRajanD/Leetcode/tree/master/1013-fibonacci-number) |
